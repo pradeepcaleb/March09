@@ -1,0 +1,4 @@
+Brnaching enables to operate on various version of a repository at the same time 
+Master is the default branchof the repository 
+copy or snapshot of master is captured when a branch is created of the master 
+canges made to the master by a different user while working on the branch copy that xcan be pulled using the pppull utility
